@@ -2,7 +2,7 @@
 
 ### How to install plugin
 
-1. Download the plugin
+1. Download the plugin.
 2. Extract all the files.
 3. Upload everything (keeping the directory structure) to the `/wp-content/plugins/` directory.
 4. Activate the plugin through the "Plugins" menu in WordPress.
