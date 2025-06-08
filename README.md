@@ -1,6 +1,6 @@
 ## DR Simple Shortcodes plugin for WordPress
 
-###How to install plugin
+### How to install plugin
 
 1. Download the plugin
 2. Extract all the files.
